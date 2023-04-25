@@ -9,4 +9,4 @@ Necesaary Changes that you have to do in the code
 Above mentioned changes will differ according to different user. If you want to see how to use this library for your Blynk projects,
 then kindly watch this full tutorial video,
 
-https://youtu.be/cjGBlEVPGBI
+
